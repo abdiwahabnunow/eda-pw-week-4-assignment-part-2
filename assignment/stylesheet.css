@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+   
+}
+header{
+    background-color: antiquewhite;
+}
+.info h2{
+    background-color: brown;
+    color: blue;
+}
+img{ 
+    width: 225px;
+    height: 250px;
+    text-align:  center;
+} 
+.info{
+    border: 1px solid black;
+   width: 600px;
+   text-align: center;
+}
